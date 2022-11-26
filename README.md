@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **humayunmohamedsuhe0786@gmail.com**
 
-- ⚡Completes **HackThon**
+- ⚡Completed **HackerRank**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
