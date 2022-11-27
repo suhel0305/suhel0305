@@ -1,21 +1,33 @@
 <h1 align="center">Hi 👋, I'm Mohamed Suhel</h1>
+<h3 align="center">My Attitude Is Based On How You Treat Me</h3>
 
-- 💬 Ask me about **...**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhel0305&label=Profile%20views&color=0e75b6&style=flat" alt="suhel0305" /> </p>
 
-- 📫 How to reach me **humayunmohamedsuhel0786@gmail.com**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhel0305" alt="suhel0305" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on ****Mini Project****
+
+- 🌱 I’m currently learning **Python**
+
+- 💬 Ask me about **........**
+
+- 📫 How to reach me **humayunmohamedsuhe0786@gmail.com**
+
+- ⚡Completed **HackerRank**
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
-
-<a href="https://linkedin.com/in/mohamed suhel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed suhel" height="30" width="40" /></a>
-
 <a href="https://fb.com/محمدسہل" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="محمدسہل" height="30" width="40" /></a>
-
 <a href="https://instagram.com/_._s_u_h_e_l_._03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._s_u_h_e_l_._03" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhel0305&show_icons=true&locale=en&layout=compact" alt="suhel0305" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhel0305&show_icons=true&locale=en" alt="suhel0305" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhel0305&" alt="suhel0305" /></p>
